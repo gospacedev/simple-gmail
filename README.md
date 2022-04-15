@@ -1,2 +1,2 @@
 # emailapp
-A simple email app in python
+Allows simple text to be sent
