@@ -1,4 +1,4 @@
-# email-cli
+# email-app
 Allows simple text to be emailed
 
 ## Usage
