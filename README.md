@@ -1,4 +1,4 @@
-# email-app
+# email-py
 Allows simple text to be emailed
 
 ## Usage
